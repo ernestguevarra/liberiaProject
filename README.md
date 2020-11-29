@@ -6,10 +6,12 @@ As per instructions, I am providing a GitHub repository for the R package `liber
 
 The repository should be sufficient as per instructions. For purposes of further reference, if helpful, I list out additional materials all available via GitHub. These may offer context to the work I present in the compendium including the project that I was evaluating and the methods I was using.
 
+<br>
+
 | **Additional documents/references** | **GitHub repository** | **External link** |
 | :--- | :--- | :--- |
-| 1. Survey project design document | https://github.com/validmeasures/liberiaS3M | https://validmeasures.org/liberiaS3M |
-| 2. Survey instruments | https://github.com/validmeasures/liberiaS3Mforms | https://ona.io/validmeasures/95321 |
+| 1. Survey project design document (Bookdown) | https://github.com/validmeasures/liberiaS3M | https://validmeasures.org/liberiaS3M |
+| 2. Survey instruments (Open Data Kit) | https://github.com/validmeasures/liberiaS3Mforms | https://ona.io/validmeasures/95321 |
 | 3. Shiny app to demonstrate survey design for training | https://github.com/validmeasures/liberiaCoverage | &nbsp; |
 | 4. Survey report (Rmarkdown) | https://github.com/validmeasures/liberiaCoverageReport | &nbsp; |
-| 5. Survey results presentation | https://github.com/validmeasures/liberiaPresentation | https://validmeasures.org/liberiaPresentation |
+| 5. Survey results presentation (Rmarkdown) | https://github.com/validmeasures/liberiaPresentation | https://validmeasures.org/liberiaPresentation |
